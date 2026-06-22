@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://grp-x.com/voltx/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://grp-x.com/voltx/products/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/products/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/products/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/products/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/products/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/products/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/products/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/products/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://grp-x.com/voltx/applications/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/applications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/applications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/applications/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/applications/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/applications/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/applications/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/applications/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://grp-x.com/voltx/distributors/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/distributors/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/distributors/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/distributors/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/distributors/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/distributors/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/distributors/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/distributors/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://grp-x.com/voltx/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/about/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/about/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://grp-x.com/voltx/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://grp-x.com/voltx/es/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://grp-x.com/voltx/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://grp-x.com/voltx/es/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://grp-x.com/voltx/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
