@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://grp-x.com/voltx/sitemap.xml
+Sitemap: https://voltx.grp-x.com/sitemap.xml
